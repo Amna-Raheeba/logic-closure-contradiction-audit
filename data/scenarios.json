@@ -1,0 +1,39 @@
+{
+  "demo": {
+    "profile": "chain_breaker",
+    "scenario": "standard",
+    "seed": 3
+  },
+  "profiles": {
+    "careful": {
+      "confidence": 0.88,
+      "flip_p": 0.02
+    },
+    "chain_breaker": {
+      "confidence": 0.85,
+      "flip_p": 0.01
+    },
+    "consistent_liar": {
+      "confidence": 0.85,
+      "flip_p": 0.0
+    },
+    "sloppy": {
+      "confidence": 0.72,
+      "flip_p": 0.13
+    },
+    "typical": {
+      "confidence": 0.8,
+      "flip_p": 0.06
+    }
+  },
+  "scenarios": {
+    "compact": {
+      "n_categories": 9,
+      "n_entities": 6
+    },
+    "standard": {
+      "n_categories": 15,
+      "n_entities": 10
+    }
+  }
+}

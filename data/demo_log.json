@@ -1,0 +1,1617 @@
+{
+  "items": [
+    {
+      "category": "C14",
+      "entity": "e0",
+      "item_id": "i000",
+      "negated": false,
+      "text": "entity e0 is in category C14"
+    },
+    {
+      "category": "C4",
+      "entity": "e0",
+      "item_id": "i001",
+      "negated": false,
+      "text": "entity e0 is in category C4"
+    },
+    {
+      "category": "C1",
+      "entity": "e0",
+      "item_id": "i002",
+      "negated": false,
+      "text": "entity e0 is in category C1"
+    },
+    {
+      "category": "C0",
+      "entity": "e0",
+      "item_id": "i003",
+      "negated": false,
+      "text": "entity e0 is in category C0"
+    },
+    {
+      "category": "C10",
+      "entity": "e0",
+      "item_id": "i004",
+      "negated": false,
+      "text": "entity e0 is in category C10"
+    },
+    {
+      "category": "C8",
+      "entity": "e0",
+      "item_id": "i005",
+      "negated": false,
+      "text": "entity e0 is in category C8"
+    },
+    {
+      "category": "C14",
+      "entity": "e0",
+      "item_id": "i006",
+      "negated": true,
+      "text": "entity e0 is not in category C14"
+    },
+    {
+      "category": "C10",
+      "entity": "e0",
+      "item_id": "i007",
+      "negated": true,
+      "text": "entity e0 is not in category C10"
+    },
+    {
+      "category": "C14",
+      "entity": "e0",
+      "item_id": "i008",
+      "negated": false,
+      "text": "entity e0 is in category C14"
+    },
+    {
+      "category": "C5",
+      "entity": "e1",
+      "item_id": "i009",
+      "negated": false,
+      "text": "entity e1 is in category C5"
+    },
+    {
+      "category": "C4",
+      "entity": "e1",
+      "item_id": "i010",
+      "negated": false,
+      "text": "entity e1 is in category C4"
+    },
+    {
+      "category": "C1",
+      "entity": "e1",
+      "item_id": "i011",
+      "negated": false,
+      "text": "entity e1 is in category C1"
+    },
+    {
+      "category": "C0",
+      "entity": "e1",
+      "item_id": "i012",
+      "negated": false,
+      "text": "entity e1 is in category C0"
+    },
+    {
+      "category": "C14",
+      "entity": "e1",
+      "item_id": "i013",
+      "negated": false,
+      "text": "entity e1 is in category C14"
+    },
+    {
+      "category": "C6",
+      "entity": "e1",
+      "item_id": "i014",
+      "negated": false,
+      "text": "entity e1 is in category C6"
+    },
+    {
+      "category": "C5",
+      "entity": "e1",
+      "item_id": "i015",
+      "negated": true,
+      "text": "entity e1 is not in category C5"
+    },
+    {
+      "category": "C14",
+      "entity": "e1",
+      "item_id": "i016",
+      "negated": true,
+      "text": "entity e1 is not in category C14"
+    },
+    {
+      "category": "C5",
+      "entity": "e1",
+      "item_id": "i017",
+      "negated": false,
+      "text": "entity e1 is in category C5"
+    },
+    {
+      "category": "C5",
+      "entity": "e2",
+      "item_id": "i018",
+      "negated": false,
+      "text": "entity e2 is in category C5"
+    },
+    {
+      "category": "C4",
+      "entity": "e2",
+      "item_id": "i019",
+      "negated": false,
+      "text": "entity e2 is in category C4"
+    },
+    {
+      "category": "C1",
+      "entity": "e2",
+      "item_id": "i020",
+      "negated": false,
+      "text": "entity e2 is in category C1"
+    },
+    {
+      "category": "C0",
+      "entity": "e2",
+      "item_id": "i021",
+      "negated": false,
+      "text": "entity e2 is in category C0"
+    },
+    {
+      "category": "C7",
+      "entity": "e2",
+      "item_id": "i022",
+      "negated": false,
+      "text": "entity e2 is in category C7"
+    },
+    {
+      "category": "C12",
+      "entity": "e2",
+      "item_id": "i023",
+      "negated": false,
+      "text": "entity e2 is in category C12"
+    },
+    {
+      "category": "C5",
+      "entity": "e2",
+      "item_id": "i024",
+      "negated": true,
+      "text": "entity e2 is not in category C5"
+    },
+    {
+      "category": "C7",
+      "entity": "e2",
+      "item_id": "i025",
+      "negated": true,
+      "text": "entity e2 is not in category C7"
+    },
+    {
+      "category": "C5",
+      "entity": "e2",
+      "item_id": "i026",
+      "negated": false,
+      "text": "entity e2 is in category C5"
+    },
+    {
+      "category": "C12",
+      "entity": "e3",
+      "item_id": "i027",
+      "negated": false,
+      "text": "entity e3 is in category C12"
+    },
+    {
+      "category": "C2",
+      "entity": "e3",
+      "item_id": "i028",
+      "negated": false,
+      "text": "entity e3 is in category C2"
+    },
+    {
+      "category": "C1",
+      "entity": "e3",
+      "item_id": "i029",
+      "negated": false,
+      "text": "entity e3 is in category C1"
+    },
+    {
+      "category": "C0",
+      "entity": "e3",
+      "item_id": "i030",
+      "negated": false,
+      "text": "entity e3 is in category C0"
+    },
+    {
+      "category": "C3",
+      "entity": "e3",
+      "item_id": "i031",
+      "negated": false,
+      "text": "entity e3 is in category C3"
+    },
+    {
+      "category": "C8",
+      "entity": "e3",
+      "item_id": "i032",
+      "negated": false,
+      "text": "entity e3 is in category C8"
+    },
+    {
+      "category": "C12",
+      "entity": "e3",
+      "item_id": "i033",
+      "negated": true,
+      "text": "entity e3 is not in category C12"
+    },
+    {
+      "category": "C3",
+      "entity": "e3",
+      "item_id": "i034",
+      "negated": true,
+      "text": "entity e3 is not in category C3"
+    },
+    {
+      "category": "C12",
+      "entity": "e3",
+      "item_id": "i035",
+      "negated": false,
+      "text": "entity e3 is in category C12"
+    },
+    {
+      "category": "C3",
+      "entity": "e4",
+      "item_id": "i036",
+      "negated": false,
+      "text": "entity e4 is in category C3"
+    },
+    {
+      "category": "C2",
+      "entity": "e4",
+      "item_id": "i037",
+      "negated": false,
+      "text": "entity e4 is in category C2"
+    },
+    {
+      "category": "C1",
+      "entity": "e4",
+      "item_id": "i038",
+      "negated": false,
+      "text": "entity e4 is in category C1"
+    },
+    {
+      "category": "C0",
+      "entity": "e4",
+      "item_id": "i039",
+      "negated": false,
+      "text": "entity e4 is in category C0"
+    },
+    {
+      "category": "C12",
+      "entity": "e4",
+      "item_id": "i040",
+      "negated": false,
+      "text": "entity e4 is in category C12"
+    },
+    {
+      "category": "C11",
+      "entity": "e4",
+      "item_id": "i041",
+      "negated": false,
+      "text": "entity e4 is in category C11"
+    },
+    {
+      "category": "C3",
+      "entity": "e4",
+      "item_id": "i042",
+      "negated": true,
+      "text": "entity e4 is not in category C3"
+    },
+    {
+      "category": "C12",
+      "entity": "e4",
+      "item_id": "i043",
+      "negated": true,
+      "text": "entity e4 is not in category C12"
+    },
+    {
+      "category": "C3",
+      "entity": "e4",
+      "item_id": "i044",
+      "negated": false,
+      "text": "entity e4 is in category C3"
+    },
+    {
+      "category": "C12",
+      "entity": "e5",
+      "item_id": "i045",
+      "negated": false,
+      "text": "entity e5 is in category C12"
+    },
+    {
+      "category": "C2",
+      "entity": "e5",
+      "item_id": "i046",
+      "negated": false,
+      "text": "entity e5 is in category C2"
+    },
+    {
+      "category": "C1",
+      "entity": "e5",
+      "item_id": "i047",
+      "negated": false,
+      "text": "entity e5 is in category C1"
+    },
+    {
+      "category": "C0",
+      "entity": "e5",
+      "item_id": "i048",
+      "negated": false,
+      "text": "entity e5 is in category C0"
+    },
+    {
+      "category": "C11",
+      "entity": "e5",
+      "item_id": "i049",
+      "negated": false,
+      "text": "entity e5 is in category C11"
+    },
+    {
+      "category": "C4",
+      "entity": "e5",
+      "item_id": "i050",
+      "negated": false,
+      "text": "entity e5 is in category C4"
+    },
+    {
+      "category": "C12",
+      "entity": "e5",
+      "item_id": "i051",
+      "negated": true,
+      "text": "entity e5 is not in category C12"
+    },
+    {
+      "category": "C11",
+      "entity": "e5",
+      "item_id": "i052",
+      "negated": true,
+      "text": "entity e5 is not in category C11"
+    },
+    {
+      "category": "C12",
+      "entity": "e5",
+      "item_id": "i053",
+      "negated": false,
+      "text": "entity e5 is in category C12"
+    },
+    {
+      "category": "C9",
+      "entity": "e6",
+      "item_id": "i054",
+      "negated": false,
+      "text": "entity e6 is in category C9"
+    },
+    {
+      "category": "C1",
+      "entity": "e6",
+      "item_id": "i055",
+      "negated": false,
+      "text": "entity e6 is in category C1"
+    },
+    {
+      "category": "C0",
+      "entity": "e6",
+      "item_id": "i056",
+      "negated": false,
+      "text": "entity e6 is in category C0"
+    },
+    {
+      "category": "C6",
+      "entity": "e6",
+      "item_id": "i057",
+      "negated": false,
+      "text": "entity e6 is in category C6"
+    },
+    {
+      "category": "C3",
+      "entity": "e6",
+      "item_id": "i058",
+      "negated": false,
+      "text": "entity e6 is in category C3"
+    },
+    {
+      "category": "C9",
+      "entity": "e6",
+      "item_id": "i059",
+      "negated": true,
+      "text": "entity e6 is not in category C9"
+    },
+    {
+      "category": "C6",
+      "entity": "e6",
+      "item_id": "i060",
+      "negated": true,
+      "text": "entity e6 is not in category C6"
+    },
+    {
+      "category": "C9",
+      "entity": "e6",
+      "item_id": "i061",
+      "negated": false,
+      "text": "entity e6 is in category C9"
+    },
+    {
+      "category": "C9",
+      "entity": "e7",
+      "item_id": "i062",
+      "negated": false,
+      "text": "entity e7 is in category C9"
+    },
+    {
+      "category": "C1",
+      "entity": "e7",
+      "item_id": "i063",
+      "negated": false,
+      "text": "entity e7 is in category C1"
+    },
+    {
+      "category": "C0",
+      "entity": "e7",
+      "item_id": "i064",
+      "negated": false,
+      "text": "entity e7 is in category C0"
+    },
+    {
+      "category": "C4",
+      "entity": "e7",
+      "item_id": "i065",
+      "negated": false,
+      "text": "entity e7 is in category C4"
+    },
+    {
+      "category": "C3",
+      "entity": "e7",
+      "item_id": "i066",
+      "negated": false,
+      "text": "entity e7 is in category C3"
+    },
+    {
+      "category": "C9",
+      "entity": "e7",
+      "item_id": "i067",
+      "negated": true,
+      "text": "entity e7 is not in category C9"
+    },
+    {
+      "category": "C4",
+      "entity": "e7",
+      "item_id": "i068",
+      "negated": true,
+      "text": "entity e7 is not in category C4"
+    },
+    {
+      "category": "C9",
+      "entity": "e7",
+      "item_id": "i069",
+      "negated": false,
+      "text": "entity e7 is in category C9"
+    },
+    {
+      "category": "C7",
+      "entity": "e8",
+      "item_id": "i070",
+      "negated": false,
+      "text": "entity e8 is in category C7"
+    },
+    {
+      "category": "C4",
+      "entity": "e8",
+      "item_id": "i071",
+      "negated": false,
+      "text": "entity e8 is in category C4"
+    },
+    {
+      "category": "C1",
+      "entity": "e8",
+      "item_id": "i072",
+      "negated": false,
+      "text": "entity e8 is in category C1"
+    },
+    {
+      "category": "C0",
+      "entity": "e8",
+      "item_id": "i073",
+      "negated": false,
+      "text": "entity e8 is in category C0"
+    },
+    {
+      "category": "C5",
+      "entity": "e8",
+      "item_id": "i074",
+      "negated": false,
+      "text": "entity e8 is in category C5"
+    },
+    {
+      "category": "C10",
+      "entity": "e8",
+      "item_id": "i075",
+      "negated": false,
+      "text": "entity e8 is in category C10"
+    },
+    {
+      "category": "C7",
+      "entity": "e8",
+      "item_id": "i076",
+      "negated": true,
+      "text": "entity e8 is not in category C7"
+    },
+    {
+      "category": "C5",
+      "entity": "e8",
+      "item_id": "i077",
+      "negated": true,
+      "text": "entity e8 is not in category C5"
+    },
+    {
+      "category": "C7",
+      "entity": "e8",
+      "item_id": "i078",
+      "negated": false,
+      "text": "entity e8 is in category C7"
+    },
+    {
+      "category": "C3",
+      "entity": "e9",
+      "item_id": "i079",
+      "negated": false,
+      "text": "entity e9 is in category C3"
+    },
+    {
+      "category": "C2",
+      "entity": "e9",
+      "item_id": "i080",
+      "negated": false,
+      "text": "entity e9 is in category C2"
+    },
+    {
+      "category": "C1",
+      "entity": "e9",
+      "item_id": "i081",
+      "negated": false,
+      "text": "entity e9 is in category C1"
+    },
+    {
+      "category": "C0",
+      "entity": "e9",
+      "item_id": "i082",
+      "negated": false,
+      "text": "entity e9 is in category C0"
+    },
+    {
+      "category": "C11",
+      "entity": "e9",
+      "item_id": "i083",
+      "negated": false,
+      "text": "entity e9 is in category C11"
+    },
+    {
+      "category": "C4",
+      "entity": "e9",
+      "item_id": "i084",
+      "negated": false,
+      "text": "entity e9 is in category C4"
+    },
+    {
+      "category": "C3",
+      "entity": "e9",
+      "item_id": "i085",
+      "negated": true,
+      "text": "entity e9 is not in category C3"
+    },
+    {
+      "category": "C11",
+      "entity": "e9",
+      "item_id": "i086",
+      "negated": true,
+      "text": "entity e9 is not in category C11"
+    },
+    {
+      "category": "C3",
+      "entity": "e9",
+      "item_id": "i087",
+      "negated": false,
+      "text": "entity e9 is in category C3"
+    }
+  ],
+  "meta": {
+    "profile": "chain_breaker",
+    "scenario": "standard",
+    "seed": 3
+  },
+  "name": "standard-chain_breaker-3",
+  "planted_noisy": [
+    "i032",
+    "i056",
+    "i073"
+  ],
+  "predictions": {
+    "i000": {
+      "answer": true,
+      "confidence": 0.849
+    },
+    "i001": {
+      "answer": true,
+      "confidence": 0.874
+    },
+    "i002": {
+      "answer": true,
+      "confidence": 0.833
+    },
+    "i003": {
+      "answer": true,
+      "confidence": 0.811
+    },
+    "i004": {
+      "answer": false,
+      "confidence": 0.788
+    },
+    "i005": {
+      "answer": false,
+      "confidence": 0.772
+    },
+    "i006": {
+      "answer": false,
+      "confidence": 0.879
+    },
+    "i007": {
+      "answer": true,
+      "confidence": 0.771
+    },
+    "i008": {
+      "answer": true,
+      "confidence": 0.902
+    },
+    "i009": {
+      "answer": true,
+      "confidence": 0.776
+    },
+    "i010": {
+      "answer": true,
+      "confidence": 0.88
+    },
+    "i011": {
+      "answer": true,
+      "confidence": 0.924
+    },
+    "i012": {
+      "answer": true,
+      "confidence": 0.797
+    },
+    "i013": {
+      "answer": false,
+      "confidence": 0.896
+    },
+    "i014": {
+      "answer": false,
+      "confidence": 0.816
+    },
+    "i015": {
+      "answer": false,
+      "confidence": 0.784
+    },
+    "i016": {
+      "answer": true,
+      "confidence": 0.863
+    },
+    "i017": {
+      "answer": true,
+      "confidence": 0.791
+    },
+    "i018": {
+      "answer": true,
+      "confidence": 0.789
+    },
+    "i019": {
+      "answer": true,
+      "confidence": 0.802
+    },
+    "i020": {
+      "answer": true,
+      "confidence": 0.907
+    },
+    "i021": {
+      "answer": true,
+      "confidence": 0.888
+    },
+    "i022": {
+      "answer": false,
+      "confidence": 0.873
+    },
+    "i023": {
+      "answer": false,
+      "confidence": 0.8
+    },
+    "i024": {
+      "answer": false,
+      "confidence": 0.794
+    },
+    "i025": {
+      "answer": true,
+      "confidence": 0.874
+    },
+    "i026": {
+      "answer": true,
+      "confidence": 0.822
+    },
+    "i027": {
+      "answer": true,
+      "confidence": 0.928
+    },
+    "i028": {
+      "answer": true,
+      "confidence": 0.884
+    },
+    "i029": {
+      "answer": true,
+      "confidence": 0.882
+    },
+    "i030": {
+      "answer": true,
+      "confidence": 0.851
+    },
+    "i031": {
+      "answer": false,
+      "confidence": 0.856
+    },
+    "i032": {
+      "answer": true,
+      "confidence": 0.834
+    },
+    "i033": {
+      "answer": false,
+      "confidence": 0.791
+    },
+    "i034": {
+      "answer": true,
+      "confidence": 0.916
+    },
+    "i035": {
+      "answer": true,
+      "confidence": 0.843
+    },
+    "i036": {
+      "answer": true,
+      "confidence": 0.8
+    },
+    "i037": {
+      "answer": true,
+      "confidence": 0.923
+    },
+    "i038": {
+      "answer": true,
+      "confidence": 0.922
+    },
+    "i039": {
+      "answer": true,
+      "confidence": 0.823
+    },
+    "i040": {
+      "answer": false,
+      "confidence": 0.88
+    },
+    "i041": {
+      "answer": false,
+      "confidence": 0.789
+    },
+    "i042": {
+      "answer": false,
+      "confidence": 0.791
+    },
+    "i043": {
+      "answer": true,
+      "confidence": 0.867
+    },
+    "i044": {
+      "answer": true,
+      "confidence": 0.815
+    },
+    "i045": {
+      "answer": true,
+      "confidence": 0.928
+    },
+    "i046": {
+      "answer": true,
+      "confidence": 0.865
+    },
+    "i047": {
+      "answer": true,
+      "confidence": 0.929
+    },
+    "i048": {
+      "answer": true,
+      "confidence": 0.915
+    },
+    "i049": {
+      "answer": false,
+      "confidence": 0.81
+    },
+    "i050": {
+      "answer": false,
+      "confidence": 0.788
+    },
+    "i051": {
+      "answer": false,
+      "confidence": 0.81
+    },
+    "i052": {
+      "answer": true,
+      "confidence": 0.893
+    },
+    "i053": {
+      "answer": true,
+      "confidence": 0.861
+    },
+    "i054": {
+      "answer": true,
+      "confidence": 0.809
+    },
+    "i055": {
+      "answer": true,
+      "confidence": 0.811
+    },
+    "i056": {
+      "answer": false,
+      "confidence": 0.95
+    },
+    "i057": {
+      "answer": false,
+      "confidence": 0.835
+    },
+    "i058": {
+      "answer": false,
+      "confidence": 0.907
+    },
+    "i059": {
+      "answer": false,
+      "confidence": 0.876
+    },
+    "i060": {
+      "answer": true,
+      "confidence": 0.828
+    },
+    "i061": {
+      "answer": true,
+      "confidence": 0.777
+    },
+    "i062": {
+      "answer": true,
+      "confidence": 0.792
+    },
+    "i063": {
+      "answer": true,
+      "confidence": 0.803
+    },
+    "i064": {
+      "answer": true,
+      "confidence": 0.876
+    },
+    "i065": {
+      "answer": false,
+      "confidence": 0.873
+    },
+    "i066": {
+      "answer": false,
+      "confidence": 0.862
+    },
+    "i067": {
+      "answer": false,
+      "confidence": 0.792
+    },
+    "i068": {
+      "answer": true,
+      "confidence": 0.885
+    },
+    "i069": {
+      "answer": true,
+      "confidence": 0.838
+    },
+    "i070": {
+      "answer": true,
+      "confidence": 0.84
+    },
+    "i071": {
+      "answer": true,
+      "confidence": 0.844
+    },
+    "i072": {
+      "answer": true,
+      "confidence": 0.905
+    },
+    "i073": {
+      "answer": false,
+      "confidence": 0.95
+    },
+    "i074": {
+      "answer": false,
+      "confidence": 0.91
+    },
+    "i075": {
+      "answer": false,
+      "confidence": 0.838
+    },
+    "i076": {
+      "answer": false,
+      "confidence": 0.838
+    },
+    "i077": {
+      "answer": true,
+      "confidence": 0.827
+    },
+    "i078": {
+      "answer": true,
+      "confidence": 0.788
+    },
+    "i079": {
+      "answer": true,
+      "confidence": 0.898
+    },
+    "i080": {
+      "answer": true,
+      "confidence": 0.852
+    },
+    "i081": {
+      "answer": true,
+      "confidence": 0.817
+    },
+    "i082": {
+      "answer": true,
+      "confidence": 0.914
+    },
+    "i083": {
+      "answer": false,
+      "confidence": 0.855
+    },
+    "i084": {
+      "answer": false,
+      "confidence": 0.815
+    },
+    "i085": {
+      "answer": false,
+      "confidence": 0.833
+    },
+    "i086": {
+      "answer": true,
+      "confidence": 0.9
+    },
+    "i087": {
+      "answer": true,
+      "confidence": 0.817
+    }
+  },
+  "relations": [
+    {
+      "a": "i000",
+      "b": "i001",
+      "kind": "subset"
+    },
+    {
+      "a": "i000",
+      "b": "i006",
+      "kind": "negation"
+    },
+    {
+      "a": "i000",
+      "b": "i008",
+      "kind": "equivalence"
+    },
+    {
+      "a": "i001",
+      "b": "i002",
+      "kind": "subset"
+    },
+    {
+      "a": "i001",
+      "b": "i005",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i002",
+      "b": "i003",
+      "kind": "subset"
+    },
+    {
+      "a": "i004",
+      "b": "i001",
+      "kind": "subset"
+    },
+    {
+      "a": "i004",
+      "b": "i000",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i004",
+      "b": "i008",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i004",
+      "b": "i007",
+      "kind": "negation"
+    },
+    {
+      "a": "i005",
+      "b": "i002",
+      "kind": "subset"
+    },
+    {
+      "a": "i008",
+      "b": "i001",
+      "kind": "subset"
+    },
+    {
+      "a": "i008",
+      "b": "i006",
+      "kind": "negation"
+    },
+    {
+      "a": "i009",
+      "b": "i010",
+      "kind": "subset"
+    },
+    {
+      "a": "i009",
+      "b": "i015",
+      "kind": "negation"
+    },
+    {
+      "a": "i009",
+      "b": "i017",
+      "kind": "equivalence"
+    },
+    {
+      "a": "i010",
+      "b": "i011",
+      "kind": "subset"
+    },
+    {
+      "a": "i010",
+      "b": "i014",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i011",
+      "b": "i012",
+      "kind": "subset"
+    },
+    {
+      "a": "i013",
+      "b": "i010",
+      "kind": "subset"
+    },
+    {
+      "a": "i013",
+      "b": "i009",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i013",
+      "b": "i017",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i013",
+      "b": "i016",
+      "kind": "negation"
+    },
+    {
+      "a": "i014",
+      "b": "i011",
+      "kind": "subset"
+    },
+    {
+      "a": "i017",
+      "b": "i010",
+      "kind": "subset"
+    },
+    {
+      "a": "i017",
+      "b": "i015",
+      "kind": "negation"
+    },
+    {
+      "a": "i018",
+      "b": "i019",
+      "kind": "subset"
+    },
+    {
+      "a": "i018",
+      "b": "i022",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i018",
+      "b": "i024",
+      "kind": "negation"
+    },
+    {
+      "a": "i018",
+      "b": "i026",
+      "kind": "equivalence"
+    },
+    {
+      "a": "i019",
+      "b": "i020",
+      "kind": "subset"
+    },
+    {
+      "a": "i020",
+      "b": "i021",
+      "kind": "subset"
+    },
+    {
+      "a": "i022",
+      "b": "i019",
+      "kind": "subset"
+    },
+    {
+      "a": "i022",
+      "b": "i025",
+      "kind": "negation"
+    },
+    {
+      "a": "i026",
+      "b": "i019",
+      "kind": "subset"
+    },
+    {
+      "a": "i026",
+      "b": "i022",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i026",
+      "b": "i024",
+      "kind": "negation"
+    },
+    {
+      "a": "i027",
+      "b": "i028",
+      "kind": "subset"
+    },
+    {
+      "a": "i027",
+      "b": "i031",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i027",
+      "b": "i033",
+      "kind": "negation"
+    },
+    {
+      "a": "i027",
+      "b": "i035",
+      "kind": "equivalence"
+    },
+    {
+      "a": "i028",
+      "b": "i029",
+      "kind": "subset"
+    },
+    {
+      "a": "i028",
+      "b": "i032",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i029",
+      "b": "i030",
+      "kind": "subset"
+    },
+    {
+      "a": "i031",
+      "b": "i028",
+      "kind": "subset"
+    },
+    {
+      "a": "i031",
+      "b": "i034",
+      "kind": "negation"
+    },
+    {
+      "a": "i032",
+      "b": "i029",
+      "kind": "subset"
+    },
+    {
+      "a": "i035",
+      "b": "i028",
+      "kind": "subset"
+    },
+    {
+      "a": "i035",
+      "b": "i031",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i035",
+      "b": "i033",
+      "kind": "negation"
+    },
+    {
+      "a": "i036",
+      "b": "i037",
+      "kind": "subset"
+    },
+    {
+      "a": "i036",
+      "b": "i042",
+      "kind": "negation"
+    },
+    {
+      "a": "i036",
+      "b": "i044",
+      "kind": "equivalence"
+    },
+    {
+      "a": "i037",
+      "b": "i038",
+      "kind": "subset"
+    },
+    {
+      "a": "i038",
+      "b": "i039",
+      "kind": "subset"
+    },
+    {
+      "a": "i040",
+      "b": "i037",
+      "kind": "subset"
+    },
+    {
+      "a": "i040",
+      "b": "i036",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i040",
+      "b": "i044",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i040",
+      "b": "i043",
+      "kind": "negation"
+    },
+    {
+      "a": "i041",
+      "b": "i037",
+      "kind": "subset"
+    },
+    {
+      "a": "i041",
+      "b": "i036",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i041",
+      "b": "i044",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i041",
+      "b": "i040",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i044",
+      "b": "i037",
+      "kind": "subset"
+    },
+    {
+      "a": "i044",
+      "b": "i042",
+      "kind": "negation"
+    },
+    {
+      "a": "i045",
+      "b": "i046",
+      "kind": "subset"
+    },
+    {
+      "a": "i045",
+      "b": "i051",
+      "kind": "negation"
+    },
+    {
+      "a": "i045",
+      "b": "i053",
+      "kind": "equivalence"
+    },
+    {
+      "a": "i046",
+      "b": "i047",
+      "kind": "subset"
+    },
+    {
+      "a": "i046",
+      "b": "i050",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i047",
+      "b": "i048",
+      "kind": "subset"
+    },
+    {
+      "a": "i049",
+      "b": "i046",
+      "kind": "subset"
+    },
+    {
+      "a": "i049",
+      "b": "i045",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i049",
+      "b": "i053",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i049",
+      "b": "i052",
+      "kind": "negation"
+    },
+    {
+      "a": "i050",
+      "b": "i047",
+      "kind": "subset"
+    },
+    {
+      "a": "i053",
+      "b": "i046",
+      "kind": "subset"
+    },
+    {
+      "a": "i053",
+      "b": "i051",
+      "kind": "negation"
+    },
+    {
+      "a": "i054",
+      "b": "i055",
+      "kind": "subset"
+    },
+    {
+      "a": "i054",
+      "b": "i059",
+      "kind": "negation"
+    },
+    {
+      "a": "i054",
+      "b": "i061",
+      "kind": "equivalence"
+    },
+    {
+      "a": "i055",
+      "b": "i056",
+      "kind": "subset"
+    },
+    {
+      "a": "i057",
+      "b": "i055",
+      "kind": "subset"
+    },
+    {
+      "a": "i057",
+      "b": "i054",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i057",
+      "b": "i061",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i057",
+      "b": "i060",
+      "kind": "negation"
+    },
+    {
+      "a": "i061",
+      "b": "i055",
+      "kind": "subset"
+    },
+    {
+      "a": "i061",
+      "b": "i059",
+      "kind": "negation"
+    },
+    {
+      "a": "i062",
+      "b": "i063",
+      "kind": "subset"
+    },
+    {
+      "a": "i062",
+      "b": "i067",
+      "kind": "negation"
+    },
+    {
+      "a": "i062",
+      "b": "i069",
+      "kind": "equivalence"
+    },
+    {
+      "a": "i063",
+      "b": "i064",
+      "kind": "subset"
+    },
+    {
+      "a": "i065",
+      "b": "i063",
+      "kind": "subset"
+    },
+    {
+      "a": "i065",
+      "b": "i062",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i065",
+      "b": "i069",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i065",
+      "b": "i068",
+      "kind": "negation"
+    },
+    {
+      "a": "i069",
+      "b": "i063",
+      "kind": "subset"
+    },
+    {
+      "a": "i069",
+      "b": "i067",
+      "kind": "negation"
+    },
+    {
+      "a": "i070",
+      "b": "i071",
+      "kind": "subset"
+    },
+    {
+      "a": "i070",
+      "b": "i076",
+      "kind": "negation"
+    },
+    {
+      "a": "i070",
+      "b": "i078",
+      "kind": "equivalence"
+    },
+    {
+      "a": "i071",
+      "b": "i072",
+      "kind": "subset"
+    },
+    {
+      "a": "i072",
+      "b": "i073",
+      "kind": "subset"
+    },
+    {
+      "a": "i074",
+      "b": "i071",
+      "kind": "subset"
+    },
+    {
+      "a": "i074",
+      "b": "i070",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i074",
+      "b": "i078",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i074",
+      "b": "i077",
+      "kind": "negation"
+    },
+    {
+      "a": "i075",
+      "b": "i071",
+      "kind": "subset"
+    },
+    {
+      "a": "i075",
+      "b": "i074",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i075",
+      "b": "i070",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i075",
+      "b": "i078",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i078",
+      "b": "i071",
+      "kind": "subset"
+    },
+    {
+      "a": "i078",
+      "b": "i076",
+      "kind": "negation"
+    },
+    {
+      "a": "i079",
+      "b": "i080",
+      "kind": "subset"
+    },
+    {
+      "a": "i079",
+      "b": "i085",
+      "kind": "negation"
+    },
+    {
+      "a": "i079",
+      "b": "i087",
+      "kind": "equivalence"
+    },
+    {
+      "a": "i080",
+      "b": "i081",
+      "kind": "subset"
+    },
+    {
+      "a": "i080",
+      "b": "i084",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i081",
+      "b": "i082",
+      "kind": "subset"
+    },
+    {
+      "a": "i083",
+      "b": "i080",
+      "kind": "subset"
+    },
+    {
+      "a": "i083",
+      "b": "i079",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i083",
+      "b": "i087",
+      "kind": "exclusion"
+    },
+    {
+      "a": "i083",
+      "b": "i086",
+      "kind": "negation"
+    },
+    {
+      "a": "i084",
+      "b": "i081",
+      "kind": "subset"
+    },
+    {
+      "a": "i087",
+      "b": "i080",
+      "kind": "subset"
+    },
+    {
+      "a": "i087",
+      "b": "i085",
+      "kind": "negation"
+    }
+  ]
+}
